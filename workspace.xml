@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2132ad14-16d2-4d89-aac1-094496130b1e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Medicine Recommendation System.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/Medicine Recommendation System.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Symptom-severity.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/Symptom-severity.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/Training.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/developer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/developer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medications.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precautions_df.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svc.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/models/svc.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symtoms_df.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workout_df.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2w1KqmoindxFXtaZq8yxIuVRjsJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Medbot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Medbot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning\templates" />
+      <recent name="D:\Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning\static" />
+      <recent name="D:\Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning\models" />
+      <recent name="D:\Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning\datasets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Medbot" type="PythonConfigurationType" factoryName="Python">
+      <module name="Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2132ad14-16d2-4d89-aac1-094496130b1e" name="Changes" comment="" />
+      <created>1745203834364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745203834364</updated>
+      <workItem from="1745203836176" duration="997000" />
+      <workItem from="1745234036273" duration="213000" />
+      <workItem from="1745257338999" duration="122000" />
+      <workItem from="1745330375801" duration="1427000" />
+      <workItem from="1745332662186" duration="84000" />
+      <workItem from="1745428119572" duration="513000" />
+      <workItem from="1745589107707" duration="62000" />
+      <workItem from="1745589187502" duration="1075000" />
+      <workItem from="1745604058006" duration="573000" />
+      <workItem from="1745638504538" duration="3064000" />
+      <workItem from="1746355883495" duration="1125000" />
+      <workItem from="1747364982111" duration="1365000" />
+      <workItem from="1747366384514" duration="1639000" />
+      <workItem from="1747401883689" duration="98000" />
+      <workItem from="1747634092337" duration="602000" />
+      <workItem from="1747821275210" duration="78000" />
+      <workItem from="1748441036815" duration="40000" />
+      <workItem from="1748441094486" duration="782000" />
+      <workItem from="1748442967340" duration="265000" />
+      <workItem from="1748490968952" duration="2931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Medbot$Medicine_Recommendation_System_Personalized_Medical_Recommendation_System_with_Machine_Learning.coverage" NAME="Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning Coverage Results" MODIFIED="1747634109682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Medbot$Medbot.coverage" NAME="Medbot Coverage Results" MODIFIED="1748490971884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Medicine_Recommendation_System_Personalized_Medical_Recommendation_System_with_Machine_Learning$Medicine_Recommendation_System_Personalized_Medical_Recommendation_System_with_Machine_Learning.coverage" NAME="Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning Coverage Results" MODIFIED="1745332085968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
